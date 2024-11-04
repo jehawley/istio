@@ -21,7 +21,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"istio.io/istio/operator/pkg/util"
+	"github.com/jehawley/istio/operator/pkg/util"
 	"istio.io/istio/pkg/test/env"
 )
 

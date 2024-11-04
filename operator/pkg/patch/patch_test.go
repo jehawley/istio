@@ -19,7 +19,7 @@ import (
 	"testing"
 
 	"istio.io/api/operator/v1alpha1"
-	"istio.io/istio/operator/pkg/util"
+	"github.com/jehawley/istio/operator/pkg/util"
 )
 
 func TestPatchYAMLManifestSuccess(t *testing.T) {

@@ -22,12 +22,12 @@ import (
 	"sigs.k8s.io/yaml"
 
 	"istio.io/api/operator/v1alpha1"
-	"istio.io/istio/operator/pkg/metrics"
-	"istio.io/istio/operator/pkg/name"
-	"istio.io/istio/operator/pkg/tpath"
-	"istio.io/istio/operator/pkg/util"
-	"istio.io/istio/operator/pkg/version"
-	oversion "istio.io/istio/operator/version"
+	"github.com/jehawley/istio/operator/pkg/metrics"
+	"github.com/jehawley/istio/operator/pkg/name"
+	"github.com/jehawley/istio/operator/pkg/tpath"
+	"github.com/jehawley/istio/operator/pkg/util"
+	"github.com/jehawley/istio/operator/pkg/version"
+	oversion "github.com/jehawley/istio/operator/version"
 )
 
 // ReverseTranslator is a set of mappings to translate between values.yaml and API paths, charts, k8s paths.

@@ -24,12 +24,12 @@ import (
 	wrappers "google.golang.org/protobuf/types/known/wrapperspb"
 
 	v1alpha12 "istio.io/api/operator/v1alpha1"
-	"istio.io/istio/operator/pkg/apis/istio/v1alpha1"
-	"istio.io/istio/operator/pkg/apis/istio/v1alpha1/validation"
-	"istio.io/istio/operator/pkg/helm"
-	"istio.io/istio/operator/pkg/manifest"
-	"istio.io/istio/operator/pkg/util"
-	"istio.io/istio/operator/pkg/util/clog"
+	"github.com/jehawley/istio/operator/pkg/apis/istio/v1alpha1"
+	"github.com/jehawley/istio/operator/pkg/apis/istio/v1alpha1/validation"
+	"github.com/jehawley/istio/operator/pkg/helm"
+	"github.com/jehawley/istio/operator/pkg/manifest"
+	"github.com/jehawley/istio/operator/pkg/util"
+	"github.com/jehawley/istio/operator/pkg/util/clog"
 	"istio.io/istio/pkg/test/env"
 )
 

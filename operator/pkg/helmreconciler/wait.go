@@ -30,9 +30,9 @@ import (
 	"k8s.io/client-go/kubernetes"
 	kctldeployment "k8s.io/kubectl/pkg/util/deployment"
 
-	"istio.io/istio/operator/pkg/name"
-	"istio.io/istio/operator/pkg/object"
-	"istio.io/istio/operator/pkg/util/progress"
+	"github.com/jehawley/istio/operator/pkg/name"
+	"github.com/jehawley/istio/operator/pkg/object"
+	"github.com/jehawley/istio/operator/pkg/util/progress"
 	"istio.io/istio/pkg/kube"
 )
 

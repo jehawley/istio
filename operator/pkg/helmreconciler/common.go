@@ -18,7 +18,7 @@ import (
 	"io"
 	"strings"
 
-	"istio.io/istio/operator/pkg/name"
+	"github.com/jehawley/istio/operator/pkg/name"
 	"istio.io/istio/pkg/log"
 )
 

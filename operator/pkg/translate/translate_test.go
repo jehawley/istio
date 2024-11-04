@@ -19,10 +19,10 @@ import (
 	"testing"
 
 	"istio.io/api/operator/v1alpha1"
-	"istio.io/istio/operator/pkg/name"
-	"istio.io/istio/operator/pkg/object"
-	"istio.io/istio/operator/pkg/tpath"
-	"istio.io/istio/operator/pkg/util"
+	"github.com/jehawley/istio/operator/pkg/name"
+	"github.com/jehawley/istio/operator/pkg/object"
+	"github.com/jehawley/istio/operator/pkg/tpath"
+	"github.com/jehawley/istio/operator/pkg/util"
 	"istio.io/istio/pkg/test/util/assert"
 )
 

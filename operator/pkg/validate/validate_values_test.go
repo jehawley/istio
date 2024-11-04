@@ -22,9 +22,9 @@ import (
 
 	"sigs.k8s.io/yaml"
 
-	"istio.io/istio/operator/pkg/helm"
-	"istio.io/istio/operator/pkg/object"
-	"istio.io/istio/operator/pkg/util"
+	"github.com/jehawley/istio/operator/pkg/helm"
+	"github.com/jehawley/istio/operator/pkg/object"
+	"github.com/jehawley/istio/operator/pkg/util"
 	"istio.io/istio/pkg/test/env"
 )
 

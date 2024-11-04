@@ -18,7 +18,7 @@ import (
 	"strings"
 	"testing"
 
-	"istio.io/istio/operator/pkg/object"
+	"github.com/jehawley/istio/operator/pkg/object"
 )
 
 func TestYAMLCmp(t *testing.T) {

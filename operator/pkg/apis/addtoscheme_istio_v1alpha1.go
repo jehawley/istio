@@ -15,7 +15,7 @@
 package apis
 
 import (
-	"istio.io/istio/operator/pkg/apis/istio/v1alpha1"
+	"github.com/jehawley/istio/operator/pkg/apis/istio/v1alpha1"
 )
 
 func init() {
