@@ -1,4 +1,4 @@
-module istio.io/istio
+module github.com/jehawley/istio
 
 go 1.22.0
 
