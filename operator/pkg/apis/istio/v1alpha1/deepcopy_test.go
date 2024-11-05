@@ -22,7 +22,7 @@ import (
 	"google.golang.org/protobuf/testing/protocmp"
 	"sigs.k8s.io/yaml"
 
-	v1alpha12 "istio.io/api/operator/v1alpha1"
+	v1alpha12 "istio.io/api/123/operator/v1alpha1"
 	"github.com/jehawley/istio/operator/pkg/apis/istio"
 	install "github.com/jehawley/istio/operator/pkg/apis/istio/v1alpha1"
 )

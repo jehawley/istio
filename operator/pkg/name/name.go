@@ -18,7 +18,7 @@ import (
 	"fmt"
 	"strings"
 
-	"istio.io/api/operator/v1alpha1"
+	"istio.io/api/123/operator/v1alpha1"
 	iop "github.com/jehawley/istio/operator/pkg/apis/istio/v1alpha1"
 	"github.com/jehawley/istio/operator/pkg/helm"
 	"github.com/jehawley/istio/operator/pkg/tpath"

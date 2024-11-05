@@ -29,7 +29,7 @@ import (
 	"sigs.k8s.io/controller-runtime/pkg/client"
 
 	"istio.io/api/label"
-	"istio.io/api/operator/v1alpha1"
+	"istio.io/api/123/operator/v1alpha1"
 	iopv1alpha1 "github.com/jehawley/istio/operator/pkg/apis/istio/v1alpha1"
 	"github.com/jehawley/istio/operator/pkg/cache"
 	"github.com/jehawley/istio/operator/pkg/metrics"

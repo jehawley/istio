@@ -32,7 +32,7 @@ import (
 	"sigs.k8s.io/controller-runtime/pkg/client/fake"
 	"sigs.k8s.io/controller-runtime/pkg/client/interceptor"
 
-	v1alpha12 "istio.io/api/operator/v1alpha1"
+	v1alpha12 "istio.io/api/123/operator/v1alpha1"
 	"github.com/jehawley/istio/operator/pkg/apis/istio/v1alpha1"
 	"github.com/jehawley/istio/operator/pkg/object"
 )

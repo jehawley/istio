@@ -25,7 +25,7 @@ import (
 	"k8s.io/apimachinery/pkg/version"
 	"sigs.k8s.io/yaml"
 
-	"istio.io/api/operator/v1alpha1"
+	"istio.io/api/123/operator/v1alpha1"
 	"github.com/jehawley/istio/operator/pkg/helm"
 	"github.com/jehawley/istio/operator/pkg/metrics"
 	"github.com/jehawley/istio/operator/pkg/name"

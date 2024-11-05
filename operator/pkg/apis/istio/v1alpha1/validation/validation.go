@@ -24,7 +24,7 @@ import (
 	wrappers "google.golang.org/protobuf/types/known/wrapperspb"
 	"k8s.io/apimachinery/pkg/util/intstr"
 
-	"istio.io/api/operator/v1alpha1"
+	"istio.io/api/123/operator/v1alpha1"
 	valuesv1alpha1 "github.com/jehawley/istio/operator/pkg/apis/istio/v1alpha1"
 	"github.com/jehawley/istio/operator/pkg/tpath"
 	"github.com/jehawley/istio/operator/pkg/util"

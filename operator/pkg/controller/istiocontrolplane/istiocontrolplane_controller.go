@@ -39,7 +39,7 @@ import (
 	"sigs.k8s.io/controller-runtime/pkg/source"
 	"sigs.k8s.io/yaml"
 
-	"istio.io/api/operator/v1alpha1"
+	"istio.io/api/123/operator/v1alpha1"
 	revtag "istio.io/istio/istioctl/pkg/tag"
 	"github.com/jehawley/istio/operator/pkg/apis/istio"
 	iopv1alpha1 "github.com/jehawley/istio/operator/pkg/apis/istio/v1alpha1"

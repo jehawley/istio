@@ -32,7 +32,7 @@ import (
 	"sigs.k8s.io/controller-runtime/pkg/client"
 
 	"istio.io/api/label"
-	operatprv1alpha1 "istio.io/api/operator/v1alpha1"
+	operatprv1alpha1 "istio.io/api/123/operator/v1alpha1"
 	"istio.io/istio/istioctl/pkg/clioptions"
 	operator_istio "github.com/jehawley/istio/operator/pkg/apis/istio"
 	"github.com/jehawley/istio/operator/pkg/apis/istio/v1alpha1"

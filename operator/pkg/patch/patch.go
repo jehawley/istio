@@ -101,7 +101,7 @@ import (
 
 	yaml2 "gopkg.in/yaml.v2"
 
-	"istio.io/api/operator/v1alpha1"
+	"istio.io/api/123/operator/v1alpha1"
 	"github.com/jehawley/istio/operator/pkg/helm"
 	"github.com/jehawley/istio/operator/pkg/metrics"
 	"github.com/jehawley/istio/operator/pkg/object"

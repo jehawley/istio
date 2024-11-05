@@ -18,6 +18,7 @@ require (
 	gopkg.in/yaml.v2 v2.4.0
 	helm.sh/helm/v3 v3.15.1
 	istio.io/api v1.23.3-0.20241007150425-eb56b2cffca7
+	istio.io/api/123 v0.0.0-00010101000000-000000000000
 	istio.io/istio v0.0.0-20241019154853-33af1b65afe2
 	k8s.io/api v0.30.1
 	k8s.io/apiextensions-apiserver v0.30.1
@@ -193,3 +194,6 @@ require (
 	sigs.k8s.io/mcs-api v0.1.0 // indirect
 	sigs.k8s.io/structured-merge-diff/v4 v4.4.1 // indirect
 )
+
+// TODO(jhawley): commentary
+replace istio.io/api/123 => istio.io/api v1.23.3

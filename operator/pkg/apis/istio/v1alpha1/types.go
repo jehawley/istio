@@ -19,7 +19,7 @@ package v1alpha1
 import (
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 
-	operatorv1alpha1 "istio.io/api/operator/v1alpha1"
+	operatorv1alpha1 "istio.io/api/123/operator/v1alpha1"
 )
 
 //

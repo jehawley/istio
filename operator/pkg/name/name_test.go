@@ -20,7 +20,7 @@ import (
 
 	"sigs.k8s.io/yaml"
 
-	"istio.io/api/operator/v1alpha1"
+	"istio.io/api/123/operator/v1alpha1"
 	"github.com/jehawley/istio/operator/pkg/tpath"
 	"github.com/jehawley/istio/operator/pkg/util"
 )

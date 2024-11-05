@@ -19,7 +19,7 @@ import (
 	"reflect"
 	"testing"
 
-	"istio.io/api/operator/v1alpha1"
+	"istio.io/api/123/operator/v1alpha1"
 	"github.com/jehawley/istio/operator/pkg/component"
 	"github.com/jehawley/istio/operator/pkg/name"
 	"github.com/jehawley/istio/operator/pkg/translate"

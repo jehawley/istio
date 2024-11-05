@@ -15,7 +15,7 @@
 package v1alpha1
 
 import (
-	"istio.io/api/operator/v1alpha1"
+	"istio.io/api/123/operator/v1alpha1"
 )
 
 const (
