@@ -17,7 +17,7 @@ package istiocontrolplane
 import (
 	"strings"
 
-	"istio.io/istio/pkg/structured"
+	"github.com/jehawley/istio/pkg/structured"
 )
 
 const (
